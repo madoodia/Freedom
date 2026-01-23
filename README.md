@@ -5,10 +5,10 @@ This project is started with studying and learning from great resource of https:
 
 Features like Real-Time rendering and some fancy UIs and other cool features will be added to it.
 
-
-![image](https://github.com/madoodia/RayTracer/blob/RayTracing-TheRestOfYourLife/output/03_12_cleaningUp_pdf_sample1000.PNG)
+![image](https://github.com/madoodia/Raytracing/blob/RayTracing-TheRestOfYourLife/output/03_12_cleaningUp_pdf_sample1000.PNG)
 
 ### **Result:**
+
 ```
 └$ .\Raytracing.exe
 Width: 800
